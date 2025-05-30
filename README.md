@@ -24,7 +24,7 @@ I don’t chase trends — I build what **feels right**.
   ‣ Fully **encrypted with LUKS**, running on **Btrfs**, because safety *and* snapshots hit different  
   ‣ Rocking **Hyprland** for that clean, minimal yet chaotic WM life  
 - 💾 I break Windows just to fix it better  
-- 👑 I vibe with Python, Bash, Tkinter, terminal themes & performance tweaks  
+- 👑 I vibe with Python, Bash, PySide6, terminal themes & performance tweaks  
 - 🎯 Always down to learn something new (unless it’s K-dramas lmao)
 
 ---
