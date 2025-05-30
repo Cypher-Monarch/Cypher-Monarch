@@ -33,9 +33,9 @@ I don’t chase trends — I build what **feels right**.
 
 | ⚙️ Project | 📝 What it Does | 🧰 Tech Stack |
 |-----------|----------------|--------------|
-| **Spectra** | Multipurpose Discord bot with aesthetic and brain | Python, discord.py |
-| **ChronoLOG** | A smart timetable manager with handcrafted UI | Python, SQLite, Tkinter |
-| **Text2Speech Tool** | Converts Word docs to speech for visually impaired students | Python, pyttsx3, docx |
+| **Spectra** | Multipurpose Discord bot with aesthetic and brain | Python, discord.py ...|
+| **ChronoLOG** | A smart timetable manager with handcrafted UI | Python, MySQL, PySide6 ...|
+| **Text2Speech Tool** | Converts Word docs to speech for visually impaired students | Python, pyttsx3, python-docx... |
 
 ---
 
