@@ -43,7 +43,7 @@ I don’t chase trends — I build what **feels right**.
 
 ### 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cypher-monarch&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cypher-monarch&show_icons=true&theme=gruvbox)
 
 ---
 
