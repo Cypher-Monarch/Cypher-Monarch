@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="CypherMonarch Banner"/>
+  <img src="./banner.png" width="100%" alt="Cypher-Monarch Banner"/>
 </p>
 
 <p align="center">
@@ -14,10 +14,13 @@
 
 ```bash
 > whoami
-CypherMonarch
+Cypher-Monarch
 
 > philosophy
 "Complex under the hood. Simple on the surface."
+
+> motto
+"I don’t chase trends — I build what feels right."
 ```
 
 * 🧠 System Designer
@@ -43,7 +46,7 @@ CypherMonarch
 
 ## 🚀 Projects
 
-### 🛡️ CypherGate
+### 🛡️ [CypherGate](https://github.com/Cypher-Monarch/CypherGate)
 
 > Custom VPN client with deep system integration
 
@@ -55,7 +58,7 @@ CypherMonarch
 
 ---
 
-### 🔊 Chrona
+### 🔊 [Chrona](https://github.com/Cypher-Monarch/Chrona)
 
 > Accessibility-first Text-to-Speech system
 
@@ -66,7 +69,7 @@ CypherMonarch
 
 ---
 
-### 🧩 MonarchDots
+### 🧩 [MonarchDots](https://github.com/Cypher-Monarch/MonarchDots)
 
 > Pretty Hyprland Dots that are more than *barely* functional
 
@@ -76,7 +79,7 @@ CypherMonarch
 
 ---
 
-### 📦 ChronoLOG (WIP)
+### 📦 [ChronoLOG (WIP)](https://github.com/Cypher-Monarch/ChronoLOG)
 
 > Full application with modular architecture
 
@@ -87,7 +90,7 @@ CypherMonarch
 
 ---
 
-### 🌐 Website
+### 🌐 [Website](https://cypher-monarch.github.io)
 
 > Central hub for distribution and interaction
 
@@ -97,7 +100,7 @@ CypherMonarch
 
 ---
 
-### ⚔️ Arsenal
+### ⚔️ [Arsenal](https://cypher-monarch.github.io/arsenal)
 
 > Visual showcase of my system and setups
 
@@ -163,6 +166,8 @@ CypherMonarch
 * I’m into cars and PC hardware (Yeah... basically tech in general).
 * I experiment with photography sometimes.
 * I watch anime (a lot) (Shout-Out to [ani-cli](https://github.com/pystardust/ani-cli) for being the best method to watch anime).
+* I once made a full website when others submitted PowerPoints. Yeah have been going overkill for a while now.
+* I hate K-dramas, I find them more exaggerated than Bollywood, bite me.
 
 ---
 
