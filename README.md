@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>I build stuff.</b>
+  <b>I make stuff.</b>
 </p>
 
 <br/>
@@ -17,10 +17,10 @@
 Cypher-Monarch
 
 > philosophy
-"Complex under the hood. Simple on the surface."
+"Simple on the surface. Complex under the hood."
 
 > motto
-"I don’t chase trends — I build what feels right."
+"I don’t chase trends. I build what feels right."
 ```
 
 * 🧠 System Designer
@@ -32,14 +32,49 @@ Cypher-Monarch
 
 ## 🧰 Tech Stack
 
+### 🐧 Core System
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,bash,python,git,github,qt,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,bash" />
 </p>
-<br/>
+
+### 🪟 Platform Experience
 <p align="center">
-  <img src="https://img.shields.io/badge/Hyprland-00ff99?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SSH-black?style=for-the-badge&color=FFD700"/>
-  <img src="https://img.shields.io/badge/Systemd-critical?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=windows,debian,ubuntu,bsd" />
+</p>
+
+### 💻 Programming & Scripting
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript" />
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### 🧩 Frameworks & UI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=qt" />
+</p>
+
+### 🤖 Platforms & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</p>
+
+### 🔧 Version Control
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+### ⚡ Environment & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=neovim,vscodium">
 </p>
 
 ---
@@ -81,12 +116,11 @@ Cypher-Monarch
 
 ### 📦 [ChronoLOG (WIP)](https://github.com/Cypher-Monarch/ChronoLOG)
 
-> Full application with modular architecture
+> Full application for tracking and scheduling your day
 
-* 🧠 Core / DB / GUI separation
-* 🎨 Custom UI with assets
-* ⚙️ Setup + dependency management
-* 🧩 Structured project design
+* 🗄️ SQL Backend for robust data handling
+* 🖥️ Qt GUI for the eye candy 
+* 📖 Monospace fonts for comfortable reading experience
 
 ---
 
@@ -110,7 +144,7 @@ Cypher-Monarch
 
 ---
 
-### 🤖 Spectra
+### 🤖 [Spectra](https://github.com/Cypher-Monarch/Spectra)
 
 > Discord bot (early project)
 
@@ -165,7 +199,7 @@ Cypher-Monarch
 * I bake (my brownies have better reviews than my code).
 * I’m into cars and PC hardware (Yeah... basically tech in general).
 * I experiment with photography sometimes.
-* I watch anime (a lot) (Shout-Out to [ani-cli](https://github.com/pystardust/ani-cli) for being the best method to watch anime).
+* I watch anime (a lot) (Just recently setup my own home server, yeah...).
 * I once made a full website when others submitted PowerPoints. Yeah have been going overkill for a while now.
 * I hate K-dramas, I find them more exaggerated than Bollywood, bite me.
 
