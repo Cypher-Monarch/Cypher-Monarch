@@ -10,234 +10,170 @@
 
 ---
 
-## ⚡ About Me
+## About
 
-```bash
-> whoami
-Cypher-Monarch
+I'm a developer who likes building things that sit somewhere between software, systems, and UX.
 
-> philosophy
-"Simple on the surface. Complex under the hood."
+Most of what I make starts with a simple idea and eventually becomes something considerably more complicated than it needed to be.
 
-> motto
-"I don’t chase trends. I build what feels right."
-```
+I like Linux, good interfaces, quiet systems, and software that gets out of the way once it has done its job.
 
-- 🧠 System Designer
-- ⚙️ Automation Addict
-- 🖥️ Linux Power User
-- 🎨 UX-focused Builder
+> Simple on the surface. Complex under the hood.
 
 ---
 
-## 🧰 Tech Stack
+## Projects
 
-### 🐧 Core System
+### CypherGate
+
+**A Linux-first VPN client built around deep system integration.**
+
+CypherGate has grown well beyond being just a VPN client. It treats the desktop and the underlying system as part of the application, with a focus on making something complicated feel native.
+
+[Repository](https://github.com/Cypher-Monarch/CypherGate) · [Documentation](https://cypher-monarch.github.io/CypherDocs/#cyphergate)
+
+### Chrona
+
+**An accessibility-first text-to-speech system.**
+
+A focused Qt application built around simplicity, usability, and making speech accessible without getting in the user's way.
+
+[Repository](https://github.com/Cypher-Monarch/Chrona) · [Documentation](https://cypher-monarch.github.io/CypherDocs/#chrona)
+
+### Spectra
+
+**A modular Discord bot.**
+
+One of my earlier projects, built around a modular command system and the foundations of how I approach larger software today.
+
+[Repository](https://github.com/Cypher-Monarch/Spectra) · [Documentation](https://cypher-monarch.github.io/CypherDocs/#spectra)
+
+### ChronoLOG
+
+**A system for tracking and scheduling your day.**
+
+A Qt application backed by SQL, built with the idea that useful information should still be comfortable to look at.
+
+[Repository](https://github.com/Cypher-Monarch/ChronoLOG) · [Documentation](https://cypher-monarch.github.io/CypherDocs/#chronolog)
+
+### MonarchDots
+
+**A reproducible Hyprland environment.**
+
+Desktop configuration, theming, and automation packaged into something I can take from one machine to another.
+
+[Repository](https://github.com/Cypher-Monarch/MonarchDots) · [Documentation](https://cypher-monarch.github.io/CypherDocs/#monarchdots)
+
+### Elsewhere
+
+[Website](https://cypher-monarch.github.io) · [Arsenal](https://cypher-monarch.github.io/arsenal)
+
+---
+
+## Toolbox
+
+### Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,bash" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 </p>
 
-### 🪟 Platform Experience
+### Systems
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,debian,ubuntu,bsd" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,bsd,windows,bash" />
 </p>
 
-### 💻 Programming & Scripting
+### Frameworks & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript" />
+  <img src="https://skillicons.dev/icons?i=qt,mysql,discord" />
 </p>
 
-### 🗄️ Database
+### Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🌐 Web Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-### 🧩 Frameworks & UI
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=qt" />
-</p>
-
-### 🤖 Platforms & APIs
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=discord" />
-</p>
-
-### 🔧 Version Control
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-### ⚡ Environment & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=neovim,vscodium">
-</p>
-
----
-
-## 🚀 Projects
-
-### 🛡️ [CypherGate](https://github.com/Cypher-Monarch/CypherGate)
-
-> Custom VPN client with deep system integration
-
-- 🔘 Tray controls + micro toggles
-- 📡 Waybar live status
-- 🧩 Built with Qt
-- 🌐 Linux first development
-
----
-
-### 🔊 [Chrona](https://github.com/Cypher-Monarch/Chrona)
-
-> Accessibility-first Text-to-Speech system
-
-- 🎧 Built for a blind student
-- 🖥️ Clean Qt interface
-- 📦 Available via AUR + installers
-- ⚡ Focused on simplicity and usability
-
----
-
-### 🧩 [MonarchDots](https://github.com/Cypher-Monarch/MonarchDots)
-
-> Pretty Hyprland Dots that are more than _barely_ functional
-
-- ⚙️ Full desktop bootstrap
-- 🎨 Theming + configs
-- 🔁 Reproducible environments
-
----
-
-### 📦 [ChronoLOG (WIP)](https://github.com/Cypher-Monarch/ChronoLOG)
-
-> Full application for tracking and scheduling your day
-
-- 🗄️ SQL Backend for robust data handling
-- 🖥️ Qt GUI for the eye candy
-- 📖 Monospace fonts for comfortable reading experience
-
----
-
-### 🌐 [Website](https://cypher-monarch.github.io)
-
-> Central hub for distribution and interaction
-
-- 🎯 Clean UI for downloads
-- 📦 Direct installers for users
-- ⚡ Simplified interface over complex backend
-
----
-
-### ⚔️ [Arsenal](https://cypher-monarch.github.io/arsenal)
-
-> Visual showcase of my system and setups
-
-- 🖼️ Hyprland screenshots
-- 🎨 Styled frontend presentation
-- ⚡ Lightweight static site
-
----
-
-### 🤖 [Spectra](https://github.com/Cypher-Monarch/Spectra)
-
-> Discord bot (early project)
-
-- ⚙️ Modular command system
-- 🧩 Cog-based structure
-- 🚀 Foundation of my development journey
-
----
-
-## ⚡ System Highlights
-
-- 🧠 100+ Keybinds (Because why not?)
-- ⚙️ Custom systemd services (I automated things that didn’t need automation)
-- 🖥️ macOS + Windows as integrated VMs (they lost their hardware privileges)
-- 📱 Android via Waydroid (this started as a joke)
-- 🌐 SSH infrastructure across devices (don't ask why, its just there)
-- 🔗 Mesh network with Tailscale
-- 🎵 Waybar + Cava interactive music system
-- 🧩 Fully automated workflows
-
----
-
-## 📦 Distribution
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AUR-Packages-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-.sh-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Windows-.exe-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Archives-.tar.xz-orange?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=git,github,neovim,vscodium" />
 </p>
 
 ---
 
-## 🎧 Fun Facts
+## The System
 
-- I made macOS launch like a normal app.
-- I treat operating systems like components, not boundaries.
-- Every machine I care about has a unique key (no reuse, ever).
-- My Waybar is both a dashboard and a control panel.
-- I integrated a VPN into my system so deeply it feels native.
-- My system is designed to minimize thinking, not maximize features.
-- I once solved “can you run this?” by adding an entire OS layer.
-- I prefer `.tar.xz` and I will not explain myself.
-- My desktop setup looks simple... it isn’t.
+I don't really think of my computers as separate machines anymore.
 
----
+They're pieces of the same system — connected through SSH and Tailscale, tied together with services and automation, and occasionally made to do things they probably weren't designed to do.
 
-### 🎮 Outside of Code
+- 100+ keybinds
+- Custom systemd services
+- macOS and Windows as VMs
+- Android through Waydroid
+- SSH infrastructure across devices
+- Tailscale mesh networking
+- Waybar + Cava
+- Automated workflows
+- A VPN integrated deeply into the desktop
 
-- I enjoy gaming (yes, my Linux setup runs them too).
-- I like badminton.
-- I bake (my brownies have better reviews than my code).
-- I’m into cars and PC hardware (Yeah... basically tech in general).
-- I experiment with photography sometimes.
-- I watch anime (a lot) (Just recently setup my own home server, yeah...).
-- I once made a full website when others submitted PowerPoints. Yeah have been going overkill for a while now.
-- I hate K-dramas, I find them more exaggerated than Bollywood, bite me.
+I treat operating systems as components, not boundaries.
 
 ---
 
-### 🧠 Random Energy
+## Self-Hosted
 
-- I care way too much about user experience.
-- If something takes more than 2 steps, I will automate it.
-- If it takes 1 step, I might still automate it.
-- I optimize systems… and sometimes regret it.
-- I build first, think later.
-- There’s definitely more. I just forgot.
-
----
-
-## 📊 Stats
+At some point, "I should probably host this myself" became a recurring thought.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cypher-Monarch&theme=gruvbox"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/sonarr.svg" height="32" alt="Sonarr"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/radarr.svg" height="32" alt="Radarr"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prowlarr.svg" height="32" alt="Prowlarr"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/qbittorrent.svg" height="32" alt="qBittorrent"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jellyfin.svg" height="32" alt="Jellyfin"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jellyseerr.svg" height="32" alt="Jellyseerr"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kavita.svg" height="32" alt="Kavita"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/beszel.svg" height="32" alt="Beszel"/>
 </p>
 
+**Services**
+
+[Sonarr](https://sonarr.tv/) · [Radarr](https://radarr.video/) · [Prowlarr](https://prowlarr.com/) · [qBittorrent](https://www.qbittorrent.org/) · [Jellyfin](https://jellyfin.org/) · [Jellyseerr](https://docs.seerr.dev/) · [Kavita](https://wiki.kavitareader.com/) · [Beszel](https://beszel.dev/)
+
 ---
 
-## 🧠 Philosophy
+## Release Verification
 
-> Build systems that disappear (Obviously with eye-candy because that is a necessity).
+Official releases are signed with my release signing key.
+
+- [Public key](./cypher-monarch-releases-public.asc)
+- [Fingerprint](./cypher-monarch-releases-fingerprint.txt)
+
+---
+
+## Outside of Code
+
+I like gaming, badminton, baking, cars, PC hardware, photography, and anime.
+
+I tend to over-engineer things.
+
+Sometimes that's a problem.
+
+Usually it's the fun part.
+
+---
+
+## A Few Things I've Learned
+
+If something takes more than two steps, automate it.
+
+If it takes one step, automate it anyway.
+
+Good software should disappear into the system around it.
+
+And if it needs to be complicated underneath, that's fine.
+
+Just don't make the person using it deal with that complexity.
 
 ---
 
 <p align="center">
-  ⚡ Built with obsession, automation, and way too many scripts (seriously... I might need help)
+  Built with curiosity, obsession, and way too many scripts.
 </p>
