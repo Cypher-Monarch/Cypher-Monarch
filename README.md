@@ -30,7 +30,7 @@ I like Linux, good interfaces, quiet systems, and software that gets out of the 
 
 CypherGate has grown well beyond being just a VPN client. It treats the desktop and the underlying system as part of the application, with a focus on making something complicated feel native.
 
-[Repository](https://github.com/Cypher-Monarch/CypherGate) · [Documentation](https://cypher-monarch.github.io/CypherDocs/#cyphergate)
+[Repository](https://github.com/Cypher-Monarch/CypherGate) · [Documentation](https://cypher-monarch.github.io/CypherDocs/cyphergate)
 
 ### Chrona
 
@@ -38,7 +38,7 @@ CypherGate has grown well beyond being just a VPN client. It treats the desktop 
 
 A focused Qt application built around simplicity, usability, and making speech accessible without getting in the user's way.
 
-[Repository](https://github.com/Cypher-Monarch/Chrona) · [Documentation](https://cypher-monarch.github.io/CypherDocs/#chrona)
+[Repository](https://github.com/Cypher-Monarch/Chrona) · [Documentation](https://cypher-monarch.github.io/CypherDocs/chrona)
 
 ### Spectra
 
@@ -46,7 +46,7 @@ A focused Qt application built around simplicity, usability, and making speech a
 
 One of my earlier projects, built around a modular command system and the foundations of how I approach larger software today.
 
-[Repository](https://github.com/Cypher-Monarch/Spectra) · [Documentation](https://cypher-monarch.github.io/CypherDocs/#spectra)
+[Repository](https://github.com/Cypher-Monarch/Spectra) · [Documentation](https://cypher-monarch.github.io/CypherDocs/spectra)
 
 ### ChronoLOG
 
@@ -54,7 +54,7 @@ One of my earlier projects, built around a modular command system and the founda
 
 A Qt application backed by SQL, built with the idea that useful information should still be comfortable to look at.
 
-[Repository](https://github.com/Cypher-Monarch/ChronoLOG) · [Documentation](https://cypher-monarch.github.io/CypherDocs/#chronolog)
+[Repository](https://github.com/Cypher-Monarch/ChronoLOG) · [Documentation](https://cypher-monarch.github.io/CypherDocs/chronolog)
 
 ### MonarchDots
 
@@ -62,7 +62,7 @@ A Qt application backed by SQL, built with the idea that useful information shou
 
 Desktop configuration, theming, and automation packaged into something I can take from one machine to another.
 
-[Repository](https://github.com/Cypher-Monarch/MonarchDots) · [Documentation](https://cypher-monarch.github.io/CypherDocs/#monarchdots)
+[Repository](https://github.com/Cypher-Monarch/MonarchDots) · [Documentation](https://cypher-monarch.github.io/CypherDocs/monarchdots)
 
 ### Elsewhere
 
