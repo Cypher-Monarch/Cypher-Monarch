@@ -131,6 +131,7 @@ At some point, "I should probably host this myself" became a recurring thought.
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/seerr.svg" height="32" alt="Seerr"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kavita.svg" height="32" alt="Kavita"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/beszel.svg" height="32" alt="Beszel"/>
+  <img
 src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/glances.svg" height="32" alt="Glances"/>
 </p>
 
