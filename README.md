@@ -128,14 +128,15 @@ At some point, "I should probably host this myself" became a recurring thought.
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prowlarr.svg" height="32" alt="Prowlarr"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/qbittorrent.svg" height="32" alt="qBittorrent"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jellyfin.svg" height="32" alt="Jellyfin"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jellyseerr.svg" height="32" alt="Jellyseerr"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/seerr.svg" height="32" alt="Seerr"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kavita.svg" height="32" alt="Kavita"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/beszel.svg" height="32" alt="Beszel"/>
+src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/glances.svg" height="32" alt="Glances"/>
 </p>
 
 **Services**
 
-[Sonarr](https://sonarr.tv/) · [Radarr](https://radarr.video/) · [Prowlarr](https://prowlarr.com/) · [qBittorrent](https://www.qbittorrent.org/) · [Jellyfin](https://jellyfin.org/) · [Jellyseerr](https://docs.seerr.dev/) · [Kavita](https://wiki.kavitareader.com/) · [Beszel](https://beszel.dev/)
+[Sonarr](https://sonarr.tv/) · [Radarr](https://radarr.video/) · [Prowlarr](https://prowlarr.com/) · [qBittorrent](https://www.qbittorrent.org/) · [Jellyfin](https://jellyfin.org/) · [Seerr](https://docs.seerr.dev/) · [Kavita](https://wiki.kavitareader.com/) · [Beszel](https://beszel.dev/) · [Glances](https://github.com/nicolargo/glances)
 
 ---
 
